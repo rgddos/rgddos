@@ -3,7 +3,7 @@
     <a href="https://app.daily.dev/r68"><img src="./devcard.png?type=default&r=0br" width="356" alt="r's Dev Card"/></a>
   </div>
   <div align="center">
-    <h1 align="center">Hi 👋, I'm Rohit</h1>
+    <h1 align="center">Hi<img src="./Waving-hand.png" width="45px" height="35px"> I'm Rohit</h1>
     <h3 align="center">DevOps Engineer | Cloud Enthusiast ☁️ | Automation Geek 🤖</h3>
   </div>
 </div>
@@ -13,7 +13,7 @@
 🔹 Passionate about **Cloud Infrastructure, CI/CD Pipelines, and Automation**  
 🔹 Experienced in **AWS | GCP | AZURE | Kubernetes | Terraform | Docker | Ansible**  
 🔹 Love working with **GitHub Actions | Jenkins | GitLab CI/CD**  
-🔹 Open Source Contributor and Technical Blogger ✍️  
+🔹 Open Source Contributor and Technical Blogger ✍️ 
 🔹 Always learning new DevOps tools and best practices  
 
 ---
