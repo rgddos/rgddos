@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/r68"><img src="./devcard.png?type=default&r=0br" width="356" alt="r's Dev Card"/></a>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">DevOps Engineer | Cloud Enthusiast ☁️ | Automation Geek 🤖</h3>
 
 ---
